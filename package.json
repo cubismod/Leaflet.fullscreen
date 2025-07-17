@@ -21,7 +21,7 @@
   ],
   "devDependencies": {
     "uglify-js": "3.19.3",
-    "jshint": "2.3.0"
+    "jshint": "2.13.6"
   },
   "author": "John Firebaugh",
   "license": "ISC",
